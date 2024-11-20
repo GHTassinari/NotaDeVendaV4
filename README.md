@@ -1,0 +1,1 @@
+Quarta versão da aplicação de uma nota de vendas, em java, feita nas aulas de Linguagens de Programação III de Sistemas de Informação. Nessa aplicação, aplicamos mais um conceito do GRASP, adicionando estoque e um gerenciador de venda, que gerencia o estoque e a venda no main.
